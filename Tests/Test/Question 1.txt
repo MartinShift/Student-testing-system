@@ -1,0 +1,4 @@
+Do you like minecraft
+1
+yes 
+no
