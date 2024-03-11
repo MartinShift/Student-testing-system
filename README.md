@@ -1,5 +1,6 @@
-# MyStatV3.0
-Creator: <B>Me(MSShift)</b>  
+# Testing System
+
+Creator: <B>Me(Shift)</b>  
 
 New console based testing system insired by Mystat, link below:  
 https://mystat.itstep.org
